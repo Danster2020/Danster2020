@@ -17,3 +17,11 @@ You can click the Preview link to take a look at your changes.
 - MediaWiki
 - Docker
 - Portainer
+
+## Languages i have some experience with
+
+- Java
+- Python
+- C
+- Assembly
+- Javascript
