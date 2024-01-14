@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel!
 - 👀 I’m interested in learning programming, web design, 3D-printing and lots of other tech stuff.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning React and Docker.
 
 <!---
 Danster2020/Danster2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
